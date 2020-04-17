@@ -1,4 +1,4 @@
-# longyou wechart
+# wechart
 
 > h5 for wechat
 
